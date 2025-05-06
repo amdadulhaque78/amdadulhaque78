@@ -28,7 +28,7 @@ I'm a self driven web programmer with a passion for crafting dynamic and interac
 
 <h3>My Web Development Skills</h3>
 
-<h3>Frontend</h3>
+<h4>Frontend</h4>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" width="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="40"/></a>
@@ -36,15 +36,15 @@ I'm a self driven web programmer with a passion for crafting dynamic and interac
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS" width="40"/></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/react-native.png" alt="React" width="40"/></a>
 
-<h3>Backend</h3>
+<h4>Backend</h4>
 
 <a href="https://nodejs.org/en/" target="_blank"><img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" width="40"/></a>
 <a href="https://expressjs.com/" target="_blank"><img src="https://img.icons8.com/ios/50/express-js.png" alt="Express.js" width="40"/></a>
 <a href="https://firebase.google.com/" target="_blank"><img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" width="40"/></a>
 
-<h3>Database</h3>
+<h4>Database</h4>
 
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" width="40"/></a>
 
-<h3>Programming Languages</h3>
+<h4>Programming Languages</h4>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" width="40"/></a>
