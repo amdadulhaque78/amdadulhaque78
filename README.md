@@ -2,7 +2,7 @@
   <img src="assets/cover.png" alt="Banner" />
 </p>
 
-<h1 align="center">Hi, I'm Md. Amdadul Haque</h1>
+<h2 align="center">Hi, I'm Md. Amdadul Haque</h2>
 
 ## MERN Stack Web Developer
 
@@ -20,13 +20,13 @@ I'm a self driven web programmer with a passion for crafting dynamic and interac
 
 
 
-<h2>Reach Me Out</h2>
+<h3>Reach me out at</h3>
 
 <a href="https://www.linkedin.com/in/md-amdadul-haque-bhuiyan-860759342" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40"/></a>
 <a href="https://www.facebook.com/emdadul.haque78" target="_blank"><img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" width="40"/></a>
 <a href="https://x.com/Emdad_h_munna" target="_blank"><img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter" width="40"/></a>
 
-<h2>My Web Development Skills</h2>
+<h3>My Web Development Skills</h3>
 
 <h3>Frontend</h3>
 
