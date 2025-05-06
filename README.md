@@ -11,8 +11,7 @@ I'm a self driven web programmer with a passion for crafting dynamic and interac
 
 <!-- 👨‍💻 All of my projects are available at my [Portfolio](https://your-portfolio-link.com) -->
 
-
-📫 Email me at: [amdadulhaque.ier.du@gmail.com](mailto:amdadulhaque.ier.du@gmail.com)
+Email me at: [amdadulhaque.ier.du@gmail.com](mailto:amdadulhaque.ier.du@gmail.com)
 
 <!-- 📄 Get My [Resume](https://your-resume-link.com) -->
 
@@ -26,9 +25,9 @@ I'm a self driven web programmer with a passion for crafting dynamic and interac
 <a href="https://www.facebook.com/emdadul.haque78" target="_blank"><img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" width="40"/></a>
 <a href="https://x.com/Emdad_h_munna" target="_blank"><img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter" width="40"/></a>
 
-<h3>My Web Development Skills</h3>
+## My Web Development Skills
 
-<h4>Frontend</h4>
+<h3>Frontend</h3>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" width="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="40"/></a>
@@ -36,15 +35,15 @@ I'm a self driven web programmer with a passion for crafting dynamic and interac
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS" width="40"/></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/react-native.png" alt="React" width="40"/></a>
 
-<h4>Backend</h4>
+<h3>Backend</h3>
 
 <a href="https://nodejs.org/en/" target="_blank"><img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" width="40"/></a>
 <a href="https://expressjs.com/" target="_blank"><img src="https://img.icons8.com/ios/50/express-js.png" alt="Express.js" width="40"/></a>
 <a href="https://firebase.google.com/" target="_blank"><img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" width="40"/></a>
 
-<h4>Database</h4>
+<h3>Database</h3>
 
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" width="40"/></a>
 
-<h4>Programming Languages</h4>
+<h3>Programming Languages</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" width="40"/></a>
