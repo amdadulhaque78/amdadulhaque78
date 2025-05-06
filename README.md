@@ -23,11 +23,8 @@ I'm a self driven web programmer with a passion for crafting dynamic and interac
 <h2>Reach Me Out</h2>
 
 <a href="https://www.linkedin.com/in/md-amdadul-haque-bhuiyan-860759342" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40"/></a>
-
 <a href="https://https://www.facebook.com/emdadul.haque78" target="_blank"><img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" width="40"/></a>
-
 <!-- <a href="https://www.instagram.com/your-profile" target="_blank"><img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram" width="40"/></a> -->
-
 <a href="https://x.com/Emdad_h_munna" target="_blank"><img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter" width="40"/></a>
 
 
@@ -39,9 +36,7 @@ I'm a self driven web programmer with a passion for crafting dynamic and interac
 <h3>Frontend</h3>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" width="40"/></a>
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="40"/></a>
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" width="40"/></a>
 
 <!-- <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" width="40"/></a> -->
