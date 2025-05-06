@@ -18,27 +18,28 @@ I'm a self driven web programmer with a passion for crafting dynamic and interac
 
 <!-- 📄 And My [CV](https://your-cv-link.com) -->
 
+:
 
-## 🛠️ My Web Development Skills
+🚀 My Web Development Skills
+🖥️ Frontend
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" width="40"/></a>
+<a href="https://getbootstrap.com/" target="_blank"><img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" width="40"/></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS" width="40"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/react-native.png" alt="React" width="40"/></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo.png" alt="Django" width="40"/></a>
 
-### Frontend  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-<!-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) -->
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-<!-- ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) -->
+🛠️ Backend
+<a href="https://nodejs.org/en/" target="_blank"><img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" width="40"/></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://img.icons8.com/ios/50/express-js.png" alt="Express.js" width="40"/></a>
+<a href="https://firebase.google.com/" target="_blank"><img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" width="40"/></a>
 
-### Backend  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+🗃️ Database
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" width="40"/></a>
 
-### Database  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+🧠 Programming Languages
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" width="40"/></a>
 
-### Programming Languages  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+<!-- <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" width="40"/></a> -->
 
-<!-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) -->
