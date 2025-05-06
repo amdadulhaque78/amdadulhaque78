@@ -23,7 +23,7 @@ I'm a self driven web programmer with a passion for crafting dynamic and interac
 <h2>Reach Me Out</h2>
 
 <a href="https://www.linkedin.com/in/md-amdadul-haque-bhuiyan-860759342" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40"/></a>
-<a href="https://https://www.facebook.com/emdadul.haque78" target="_blank"><img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" width="40"/></a>
+<a href="https://www.facebook.com/emdadul.haque78" target="_blank"><img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" width="40"/></a>
 <a href="https://x.com/Emdad_h_munna" target="_blank"><img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter" width="40"/></a>
 
 <h2>My Web Development Skills</h2>
