@@ -2,7 +2,7 @@
   <img src="assets/cover.png" alt="Banner" />
 </p>
 
-<h1 align="center">Hi, I'm Md. Amdadul Haque Bhuiyan</h1>
+<h1 align="center">Hi, I'm Md.Amdadul Haque</h1>
 
 ## MERN Stack Web Developer
 
